@@ -1,3 +1,4 @@
 new commit
 issue resolved
 hotfix
+new feature added
